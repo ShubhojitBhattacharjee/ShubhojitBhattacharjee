@@ -1,15 +1,12 @@
 ![image](https://user-images.githubusercontent.com/20137852/131958046-a3718927-d31d-4202-b77c-fe640ed8adf2.png)
 
-I am Shubhojit Bhattacharjee with over 10 Years of diverse experience in Quality Assurance (Automation, Web Services, Manual, Product.) I am a thorough professional armed with excellent development and analyzing skills with attention to detail & accuracy. I have developed many successful variants of test automation frameworks and gained diverse experience in Investment Banking, Payments, and Insurance domains.
-
-I have gained expert-level knowledge variety of technology stacks such as Selenium, Protractor, WebDriverIO, Katalon Studio, Puppeteer, HP's UFT with strong knowledge on languages like Java, C#.Net, JavaScript, TypeScript having expertise in TDD and BDD tools like TestNG, Cucumber, Jasmine, Mocha, and Jest.
-
-My experiences helped me solve complex problems in Software Testing - making me passionate about using my skills to improve the quality of the Application Under Test. ⚡
+I am Shubhojit Bhattacharjee with over 10 Years of diverse experience in Quality Assurance (Automation, Web Services, Manual, Product) Testing with expertise in Requirements gathering, Analysis, Design, Application Testing Quality Assurance in Investment Banking, Retail Banking, Payments and Insuarnace domains for Various clients. ⚡
 
 
 # Tech-Stack
-I am a thorough professional armed with excellent development and analyzing skills with attention to detail & accuracy. I have developed and maintained many successful variants of automation frameworks for both API and UI applications and gained diverse experience in Financial, Banking,Payments and Insurance domains.
-I have expert-level knowledge on Selenium, Protractor, WebDriverIO, Katalon Studio and Puppeteer with strong knowledge on languages like Java, C#.Net, JavaScript, TypeScript having expertise in BDD and TDD tools like Cucumber, Jasmine, Jest and TestNG testing frameworks respectively.
+I have gained expert-level knowledge variety of technology stacks such as Selenium, Protractor, WebDriverIO, Katalon Studio, Puppeteer, HP's UFT with strong knowledge on languages like Java, C#.Net, JavaScript, TypeScript having expertise in TDD and BDD tools like TestNG, Cucumber, Jasmine, Mocha, and Jest.
+
+My experiences helped me solve complex problems in Software Testing - making me passionate about using my skills to improve the quality of the Application Under Test. 
 
 ## Programming Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
