@@ -31,7 +31,6 @@ My experiences helped me solve complex problems in Software Testing - making me 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 
-# Projects
 
 
 <!--
