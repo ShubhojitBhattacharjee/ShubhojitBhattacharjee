@@ -33,10 +33,10 @@ My experiences helped me solve complex problems in Software Testing - making me 
 
 
 # Connect
-<a  href="https://www.linkedin.com/in/shubhojitbhattacharjee/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://wa.me/+918123962321/" target="_blank"><img alt="Whatsapp" src="https://img.shields.io/badge/whatsapp%20-%230077B5.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&color=tealgreen" /></a>
+ <a  href="https://www.linkedin.com/in/shubhojitbhattacharjee/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:subhojit.rav09@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><a href="https://www.facebook.com/Ayon.Snehansh/" target="_blank">
 <img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white" />
-  <a  href="https://t.me/ayonsnehansh"><img alt=" Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 
 <!--
