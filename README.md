@@ -38,8 +38,6 @@ My experiences helped me solve complex problems in Software Testing - making me 
 | Project Name      | Description | 
 | :---:        |    :----   |  
 | [Audio Video Broadcast](https://www.gotomeet.me/comminfra)     | Audio/Video Broadcast project is to provide seamless broadcast of a Webinar to third-party applications like YouTube, Facebook, and Amazon IVS, where role is to create Test Automation framework in typescript with Mocha and Chai as testing framework and assertion respectively. My task also includes deploying containerized servers onto a Kubernetes cluster managed by AWS Elastic Container Service for Kubernetes (EKS) as a part of test build in testing environments       | 
-| [Paya - Payment Processor Service![image](https://user-images.githubusercontent.com/20137852/132392816-51c1a91d-c1e5-4c76-8d64-64f6605723f5.png)
-](https://paya.com/)   | I have created testing framework with Jasmine as BDD tool, created test automation framework for API from the scratch using Rest-Assured Java library, used cucumber as a BDD tool for API Automation testing framework    | 
 
 
 # Connect
