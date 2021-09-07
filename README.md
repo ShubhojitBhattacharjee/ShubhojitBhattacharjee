@@ -32,6 +32,11 @@ My experiences helped me solve complex problems in Software Testing - making me 
 
 
 
+# Connect
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white)
+![Skype](https://img.shields.io/badge/<mfsi_shubhojitb>-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)
 
 <!--
 **ShubhojitBhattacharjee/ShubhojitBhattacharjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
