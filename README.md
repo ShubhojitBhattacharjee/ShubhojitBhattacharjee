@@ -44,6 +44,7 @@ My experiences helped me solve complex problems in Software Testing - making me 
 | Discoverture Solutions India Pvt Ltd | Worked for a Prperty and Casualty Insurance Company where I performed requirements analysis, develop test scenario and test cases based on the Functional Design Specifications and logged and tracked defects in HP ALM |
 
 
+
 # Connect
 <a href="https://wa.me/+918123962321/" target="_blank"><img alt="Whatsapp" src="https://img.shields.io/badge/whatsapp%20-%230077B5.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&color=tealgreen" /></a>
  <a  href="https://www.linkedin.com/in/shubhojitbhattacharjee/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
