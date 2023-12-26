@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/20137852/131958046-a3718927-d31d-4202-b77c-fe640ed8adf2.png)
 
-I am Shubhojit Bhattacharjee with over 10 Years of diverse experience in Quality Assurance (Automation, Web Services, Manual, Product) Testing with expertise in Requirements gathering, Analysis, Design, Application Testing Quality Assurance in Investment Banking, Retail Banking, Payments and Insuarnace domains for Various clients. ⚡
+I am Shubhojit Bhattacharjee with over 12 Years of diverse experience in Quality Assurance (Automation, Web Services, Manual, Product) Testing with expertise in Requirements gathering, Analysis, Design, Application Testing Quality Assurance in Investment Banking, Retail Banking, Payments and Insuarnace domains for Various clients. ⚡
 
 
 # Tech-Stack
