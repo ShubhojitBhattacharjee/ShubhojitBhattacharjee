@@ -6,6 +6,9 @@ I am Shubhojit Bhattacharjee with over 12 Years of diverse experience in Quality
 # Tech-Stack
 I have gained expert-level knowledge variety of technology stacks such as Selenium, Protractor, WebDriverIO, Katalon Studio, Puppeteer, HP's UFT with strong knowledge on languages like Java, C#.Net, JavaScript, TypeScript having expertise in TDD and BDD tools like TestNG, Cucumber, Jasmine, Mocha, and Jest.
 
+
+My core area of expertise has been to build robust Test Automation Frameworks from the scratch for large and small-scale applications.
+
 My experiences helped me solve complex problems in Software Testing - making me passionate about using my skills to improve the quality of the Application Under Test. 
 
 ###### Programming Languages
